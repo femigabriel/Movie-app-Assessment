@@ -43,6 +43,11 @@ import { ref } from "vue";
   padding: 96px 112px;
   /* height: 693px;  */
 }
+@media (max-width: 480px) {
+  .banner {
+    width: ;
+  }
+}
 
 .featured {
   display: flex;
